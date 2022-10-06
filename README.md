@@ -1,20 +1,42 @@
-## My Web Application (Add your Title here)
+## 1. Project Name
+This is a project for COMP1800 titled ... 
 
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Contents](#content)
+## 2. Brief Project Description
+This browser based web application to ... 
 
-## General Info
-This browser based web application to ...
+
+## 3. Names of Contributors
+These are the members in our team: 
+* ...
+* ...
+* ...
 	
-## Technologies
+## 4. Technologies Used
 Technologies used for this project:
 * HTML, CSS
 * JavaScript
 * Bootstrap 
 * ...
+
+## 5. Complete setup/installion/usage
+Here are the steps ...
+* ...
+* ...
+* ...
+
+## 6. Known Bugs
+Here are some known bugs:
+* ...
+* ...
+* ...
+
+## 7. Features for Future
+What we'd like to build in the future:
+* ...
+* ...
+* ...
 	
-## Content
+## 8. Contents of Folder
 Content of the project folder:
 
 ```
@@ -37,8 +59,4 @@ Firebase hosting files:
 
 
 ```
-
-Tips for file naming files and folders:
-* use lowercase with no spaces
-* use dashes (not underscore) for word separation
 
